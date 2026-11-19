@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.lp867.meridian",
+      "sha256_cert_fingerprints": ["07:BA:57:7C:D4:5B:8B:41:77:2A:C5:2D:67:29:F8:AF:0F:D9:CE:24:BB:30:10:BF:AE:76:96:4B:B4:0A:8C:96"]
+    }
+  }
+]
